@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-osayeme_okwechime-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osayeme-okwechime)](https://www.linkedin.com/in/osayeme-okwechime-232372200/) [![Twitter Badge](https://img.shields.io/badge/-@osayeme_okwechime-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OkweOsayeme)](https://twitter.com/OkweOsayeme)
 
-I'm an [Amazon Certified](https://www.credly.com/badges/de11e246-29d7-4ff7-90b0-3698f2a9a2b5) Linux systems administrator, who currently works as an Enterprise and Customer Experience Operations specialist at [MTN Nigeria](https://www.mtn.ng). I'm passionate about Cloud DevOps, Open Source Contributions, blockchain technology, and building the future of the internet.
+I'm an [Amazon Certified](https://www.credly.com/badges/de11e246-29d7-4ff7-90b0-3698f2a9a2b5) solutions architect, who currently works as a Freelance Web3 developer. I'm passionate about Cloud DevOps, Open Source Contributions, blockchain technology, and building the future of the internet.
 
 **Here's a quick summary about me**:
 
